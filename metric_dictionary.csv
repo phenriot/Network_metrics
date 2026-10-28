@@ -1,0 +1,57 @@
+"supergroup","level","subgroup","metric","label","aliases","n_table","n_refs"
+"Static analysis","Network-level","Components & fragmentation","No. of strongly / weakly connected components (SCCs / WCCs)","No. of SCCs / WCCs",,46,46
+"Static analysis","Network-level","Components & fragmentation","SCC / WCC size","",,30,30
+"Static analysis","Network-level","Components & fragmentation","Fragmentation index","",,7,7
+"Static analysis","Network-level","Path-based connectivity","Diameter","",,44,44
+"Static analysis","Network-level","Path-based connectivity","Average path length","",,51,51
+"Static analysis","Network-level","Path-based connectivity","Minimal path length","",,1,1
+"Static analysis","Network-level","Path-based connectivity","Path density","",,4,4
+"Static analysis","Network-level","Sub-structure & neighbourhood similarity","Edge density","",,48,48
+"Static analysis","Network-level","Sub-structure & neighbourhood similarity","Proportion of connected pairs without neighbour overlap","Connected pairs without neighbour overlap",,1,1
+"Static analysis","Network-level","Sub-structure & neighbourhood similarity","Global clustering coefficient","",,17,17
+"Static analysis","Network-level","Sub-structure & neighbourhood similarity","Average clustering coefficient","",,26,26
+"Static analysis","Network-level","Sub-structure & neighbourhood similarity","Reciprocity","",,16,16
+"Static analysis","Network-level","Mixing patterns","Assortativity","",,33,33
+"Static analysis","Network-level","Mixing patterns","Modularity","",,11,11
+"Static analysis","Network-level","Mixing patterns","Number of communities","",,14,14
+"Static analysis","Network-level","Mixing patterns","Community size","",,8,8
+"Static analysis","Network-level","Topological properties","Small-world-ness","",,5,5
+"Static analysis","Network-level","Topological properties","Power-law exponent","",,12,12
+"Static analysis","Network-level","Topological properties","Centralization","",,4,4
+"Static analysis","Network-level","Topological properties","Overdispersion index (VMR)","",,1,1
+"Static analysis","Network-level","Moments of node-level metric distributions","Mean","",,17,17
+"Static analysis","Network-level","Moments of node-level metric distributions","Median","",,2,2
+"Static analysis","Network-level","Moments of node-level metric distributions","Variance","",,3,3
+"Static analysis","Network-level","Moments of node-level metric distributions","Maximum","",,1,1
+"Static analysis","Network-level","Network-derived transmission potential","Network-derived basic reproduction number (R0)","Network-derived R0",,6,6
+"Static analysis","Node-level","Degree-based metrics","Degree / In-degree / Out-degree","",,109,102
+"Static analysis","Node-level","Degree-based metrics","Strength / In-strength / Out-strength","",,37,37
+"Static analysis","Node-level","Degree-based metrics","Average degree of nearest neighbours","Avg degree of nearest neighbours",,1,1
+"Static analysis","Node-level","Reachability metrics","Node in / out reachability","",,4,4
+"Static analysis","Node-level","Distance-based metrics","Closeness / In-closeness / Out-closeness","",,33,33
+"Static analysis","Node-level","Intermediation metrics","Shortest-path betweenness","",,63,62
+"Static analysis","Node-level","Intermediation metrics","Flow betweenness","",,4,4
+"Static analysis","Node-level","Local cohesion","Local inward / outward / total clustering coefficient","Local clustering coefficient",,26,26
+"Static analysis","Node-level","Structural embeddedness","Coreness (k-core index)","Coreness",,2,2
+"Static analysis","Node-level","Prestige & authority","Eigenvector centrality","",,6,6
+"Static analysis","Node-level","Prestige & authority","PageRank","",,16,16
+"Static analysis","Node-level","Prestige & authority","Reverse PageRank","",,1,1
+"Static analysis","Node-level","Flow role metrics","Transmission flux","",,1,1
+"Static analysis","Node-level","Flow role metrics","Flow polarity","",,5,5
+"Static analysis","Node-level","Flow role metrics","Flow share","",,1,1
+"Static analysis","Node-level","Flow role metrics","Sourceness / Sinkness score","",,1,1
+"Static analysis","Node-level","Aggregation","Borda score","",,1,1
+"Static analysis","Node-level","Spatial aggregation","Network risk index","",,3,3
+"Static analysis","Edge-level",,"Average edge weight","",,4,4
+"Static analysis","Edge-level",,"EdgeRank","",,2,2
+"Static analysis","Edge-level",,"Shared neighbour overlap","",,1,1
+"Temporal analysis","Network-level",,"Network temporal overlap","",,4,4
+"Temporal analysis","Network-level",,"Causal fidelity","",,1,1
+"Temporal analysis","Network-level",,"Temporal motif frequency","",,1,1
+"Temporal analysis","Network-level",,"Fraction of appearing / disappearing edges","Fraction of appearing/disappearing edges",,1,1
+"Temporal analysis","Network-level",,"Communities matching value","",,1,1
+"Temporal analysis","Node-level",,"In/out contact chain size (Reachability ratio)","In/out contact chain size",,37,36
+"Temporal analysis","Node-level",,"Node in/out loyalty","",,2,2
+"Temporal analysis","Edge-level",,"Edge loyalty","",,1,1
+"Temporal analysis","Edge-level",,"Active / Inactive streak length","",,1,1
+"Temporal analysis","Edge-level",,"Edge growth rate","",,1,1
